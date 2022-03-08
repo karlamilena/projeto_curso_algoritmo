@@ -1,2 +1,3 @@
-# projeto_curso_algoritmo
-Algoritmos e Lógica - I
+# Projeto Curso Algoritmo
+
+### Algoritmos e Lógica - I
